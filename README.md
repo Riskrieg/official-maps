@@ -16,7 +16,7 @@ Check the [releases](https://github.com/Riskrieg/official-maps/releases) for the
 
 ## Setup
 
-Check the [wiki](https://github.com/Riskrieg/official-maps/wiki) for detailed instructions on how to set the bot up for self-hosting.
+Check the [wiki](https://github.com/Riskrieg/official-maps/wiki) for detailed instructions on how to create a map.
 
 ## Contribute
 
